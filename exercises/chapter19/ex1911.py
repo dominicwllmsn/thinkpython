@@ -18,5 +18,7 @@ def binomial_coeff(n, k):
 
 b_coeff = {}
 
+#Binomial coefficients calculated with the use of memoization
+
 print(binomial_coeff(15, 4))
 print(b_coeff)
